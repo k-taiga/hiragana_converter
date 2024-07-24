@@ -1,4 +1,4 @@
-package com.example.search_app
+package com.example.hiragana_converter
 
 import io.flutter.embedding.android.FlutterActivity
 
